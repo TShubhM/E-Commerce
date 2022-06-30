@@ -1,2 +1,2 @@
 # E-Commerce
-Basic E-Commerce Project
+Basic E-Commerce Project.
