@@ -1,1 +1,1 @@
-second file Modified
+second file Modified and again modified at the time of rebasing example
